@@ -81,7 +81,7 @@ body {
 
 .cover {
   padding: 165px 50px 50px;
-  background-image: url("../images/cover.jpg");
+  background-image: url('../images/cover.jpg');
   background-position: center;
   background-size: cover;
   position: relative;
@@ -213,15 +213,15 @@ body {
 }
 
 .card-type-film {
-  background-image: url("../images/card-lot-01.jpg");
+  background-image: url('../images/card-lot-01.jpg');
 }
 
 .card-type-book {
-  background-image: url("../images/card-lot-02.jpg");
+  background-image: url('../images/card-lot-02.jpg');
 }
 
 .card-type-picture {
-  background-image: url("../images/card-lot-03.jpg");
+  background-image: url('../images/card-lot-03.jpg');
 }
 
 .card-title {
